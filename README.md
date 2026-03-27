@@ -15,7 +15,7 @@ The crew runs in sequence. First, the **Market Researcher** studies student beha
    ```
 3. Create your env file:
    ```bash
-   cp .env.example .env
+   cp .env.env
    ```
 4. Open `.env` and fill in your real API values.
 5. Run:
